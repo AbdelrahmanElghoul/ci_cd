@@ -3,11 +3,8 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
-<<<<<<< HEAD
 //chnage 2
-=======
 
->>>>>>> 47c5b1870850fc2fb395fc73a48b93954c36320c
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
